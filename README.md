@@ -29,6 +29,7 @@
   ## Coupling remote sensing and crop growth model to estimate national wheat yield in Ethiopia
 The project was focused on enhancing wheat yield estimation in Ethiopia, a critical component of agricultural planning and food security efforts. Through the integration of remote sensing data, specifically MODIS time-series Leaf Area Index (LAI), I developed an innovative methodology utilizing the Ensemble Kalman Filter (EnKF) to incorporate LAI into the WOrld FOod STudies (WOFOST) model. The results, validated against field-measured yields from the 2018 growing season, demonstrated a substantial improvement in accuracy, with an impressive R-squared value of 0.80 and an RMSE of 413 kg/ha. This project showcases the potential of Python-driven data analysis to revolutionize agricultural yield forecasting, providing actionable insights for policymakers and stakeholders in Ethiopia and similar regions.
 ![image](https://github.com/Awetahegnbeyene/Portfolio/assets/147026516/4b160fe9-039d-425f-bec1-d7bdad532f32)
+![image](https://github.com/Awetahegnbeyene/Portfolio/assets/147026516/9f94d713-7792-4298-8047-c88e79975571)
 
 ## Understanding the alternative fuel vehicles market in the US
 
