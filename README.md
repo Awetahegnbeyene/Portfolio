@@ -5,7 +5,7 @@
  - M.Sc., Applied Climate science | Mekelle University(July 2015)
  - B.Sc., Meteorology | Arba Minch University (july 2010)
 ## Work Experience 
-## Data Analyst
+Data Analyst
 Correlation One - Amazon | Colorado, Co| Feb 2023 - May 2023
 -Applied analytical techniques during a 17-week data analytics program focused on real-world business cases, utilizing tools like Tableau and Power BI.
 Collaborated with teammates to analyze the impact of COVID-19 on trading trends of international goods in the U.S. Conducted a comparative study of 2014-2019 and 2020-2021 data to uncover cost implications using Tableau and Power BI.
