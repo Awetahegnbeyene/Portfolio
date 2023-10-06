@@ -22,5 +22,8 @@
   drove a 25% increase in customer satisfaction. Presented findings through interactive dashboards in Tableau and Power BI.
 -	Developed Excel documents to streamline metric tracking, resulting in improved resource allocation explanations and more 
  effective stakeholder presentations.
-
+## Projects
+## Analyzing student grades in the Open University
+- Our objective was to address the challenge of understanding and enhancing student performance at the Open University. To achieve this, we conducted comprehensive data cleaning, exploratory analysis, utilized Tableau for effective data visualization, and managed data through SQL Server. By doing so, we provided actionable insights that enabled the institution to offer targeted support, make informed decisions, and ultimately improve student outcomes.
+## Understanding the alternative fuel vehicles market in the US
 
