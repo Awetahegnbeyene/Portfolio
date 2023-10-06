@@ -25,5 +25,7 @@
 ## Projects
 ## Analyzing student grades in the Open University
 - Our objective was to address the challenge of understanding and enhancing student performance at the Open University. To achieve this, we conducted comprehensive data cleaning, exploratory analysis, utilized Tableau for effective data visualization, and managed data through SQL Server. By doing so, we provided actionable insights that enabled the institution to offer targeted support, make informed decisions, and ultimately improve student outcomes.
+  ![image](https://github.com/Awetahegnbeyene/Portfolio/assets/147026516/9a00e41f-ec52-46fd-9d9a-2b0e47db58d3)
+
 ## Understanding the alternative fuel vehicles market in the US
 
