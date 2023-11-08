@@ -3,7 +3,7 @@
 ## Education
  - PhD Researcher., GIS and Cartograpghy| University of Chinese Academy of Sciences (May 2021)
  - M.Sc., Applied Climate science | Mekelle University(July 2015)
- - B.Sc., Applied Stat | Arba Minch University (july 2010)
+ - B.Sc., Applied Meteorology and Statistics| Arba Minch University (july 2010)
 ## Work Experience                                                                                            
 ## Data Analyst at Medusind , Remote,  August 2021- present 
 •	Conducted data analysis using Python, R, and SQL (35%) for revenue cycle optimization.
@@ -30,7 +30,7 @@
   Conducted a comparative study of 2014-2019 and 2020-2021 data to uncover cost implications using Tableau and Power BI.
 - Constructed a comprehensive data pipeline utilizing pivot tables, graphs, and interactive dashboards in Excel, Tableau, and 
   Power BI to visually represent findings.
-## Data Analyst @ Research Institute (07/2015-02/ 2020)
+## Data Analyst at Research Institute (07/2015-02/ 2020)
 - Spearheaded tools to optimize the value chain of a product line, leading to a 15% efficiency improvement and significant 
  cost savings. Utilized Tableau and Power BI for data visualization.
  - Served as a regional focal person and analyst for 17 projects, providing expert data analysis support and conducting 
