@@ -18,7 +18,9 @@
   Applied statistical tools to bridge the gap between potential and actual wheat yields.
 •	Collaborated with cross-functional teams, integrating data analysis into policy design and implementation. Fostered a 
   multidisciplinary approach to agricultural improvement, employing statistical tools to support decision-making processes.
-<img width="391" alt="image" src="https://github.com/Awetahegnbeyene/Portfolio/assets/147026516/d671957e-e13d-47b4-80b6-30c4985b8f68">
+ 
+  <img width="391" alt="image" src="https://github.com/Awetahegnbeyene/Portfolio/assets/147026516/248bd2fd-93e0-4123-94fd-7f8d2d3fed12">
+
 
 ## Analyzing student grades in the Open University
 - Our objective was to address the challenge of understanding and enhancing student performance at the Open University. To achieve this, we conducted comprehensive data cleaning, exploratory analysis, utilized Tableau for effective data visualization, and managed data through SQL Server. By doing so, we provided actionable insights that enabled the institution to offer targeted support, make informed decisions, and ultimately improve student outcomes.
