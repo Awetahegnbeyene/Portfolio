@@ -5,7 +5,7 @@
  - M.Sc., Applied Climate science | Mekelle University(July 2015)
  - B.Sc., Applied Statistics| Arba Minch University (july 2010)
 ## ## Projects
-## Optimizing Wheat Yield in Ethiopia: A Data-Driven Analysis
+## Agricultural Sustainability Analysis for Wheat Production in Ethiopia: A Data-Driven Analysis
 
 •	Conducted comprehensive analysis of Ethiopia's wheat yield gap using Excel, Python, SPSS, and R.
 •	Leveraged statistical tools for data preprocessing and in-depth analysis of weather, soil, and management factors.
