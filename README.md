@@ -4,7 +4,7 @@
  - PhD Researcher., GIS and Cartograpghy| University of Chinese Academy of Sciences (May 2021)
  - M.Sc., Applied Climate science | Mekelle University(July 2015)
  - B.Sc., Applied Statistics| Arba Minch University (july 2010)
-## ## Projects
+## Projects
 ## Agricultural Sustainability Analysis for Wheat Production in Ethiopia: A Data-Driven Analysis
 
 •	Conducted comprehensive analysis of Ethiopia's wheat yield gap using Excel, Python, SPSS, and R.
