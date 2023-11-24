@@ -6,26 +6,18 @@
  - B.Sc., Applied Statistics| Arba Minch University (july 2010)
 ## ## Projects
 ## Optimizing Wheat Yield in Ethiopia: A Data-Driven Analysis
-•	 Conducted a comprehensive analysis of Ethiopia's wheat yield gap using advanced statistical tools, including Excel, 
-   Python, SPSS, and R. Emphasized the correlation between weather variables, soil fertility, and management practices.
-•	 Leveraged climatic and soil fertility data, employing Excel for data preprocessing and Python, SPSS, and R for in-depth 
-  statistical analysis. Estimated water-limited potential yields from 2010 to 2019, providing quantitative insights into the 
-   factors influencing wheat yields.
-• 	Developed strategic recommendations based on analytical findings, utilizing Excel for data visualization and 
-   interpretation. Emphasized improved access to agricultural inputs, institutional arrangements, and the adoption of 
-   advanced  technologies to narrow the yield gap.
-• 	Contributed to enhancing food security in Ethiopia by providing data-driven insights and actionable recommendations. 
-   Applied statistical tools to bridge the gap between potential and actual wheat yields.
-•	 Collaborated with cross-functional teams, integrating data analysis into policy design and implementation. Fostered a 
-   multidisciplinary approach to agricultural improvement, employing statistical tools to support decision-making processes.
- 
-  <img width="391" alt="image" src="https://github.com/Awetahegnbeyene/Portfolio/assets/147026516/248bd2fd-93e0-4123-94fd-7f8d2d3fed12">
+•	Conducted comprehensive analysis of Ethiopia's wheat yield gap using Excel, Python, SPSS, and R.
+•	Leveraged statistical tools for data preprocessing and in-depth analysis of weather, soil, and management factors.
+•	Provided strategic recommendations based on insights, emphasizing improved access to inputs and advanced technologies.
+•	Contributed to food security by bridging the gap between potential and actual wheat yields using data-driven insights.
+•	Collaborated across teams, integrating statistical analysis into policy design for holistic agricultural improvement.
 
+  <img width="391" alt="image" src="https://github.com/Awetahegnbeyene/Portfolio/assets/147026516/248bd2fd-93e0-4123-94fd-7f8d2d3fed12">
 
 ## Analyzing student grades in the Open University
 - Our objective was to address the challenge of understanding and enhancing student performance at the Open University. To achieve this, we conducted comprehensive data cleaning, exploratory analysis, utilized Tableau for effective data visualization, and managed data through SQL Server. By doing so, we provided actionable insights that enabled the institution to offer targeted support, make informed decisions, and ultimately improve student outcomes.
   ![image](https://github.com/Awetahegnbeyene/Portfolio/assets/147026516/9a00e41f-ec52-46fd-9d9a-2b0e47db58d3)
-  ## Coupling remote sensing and crop growth model to estimate national wheat yield in Ethiopia
+ ## Coupling remote sensing and crop growth model to estimate national wheat yield in Ethiopia
 The project was focused on enhancing wheat yield estimation in Ethiopia, a critical component of agricultural planning and food security efforts. Through the integration of remote sensing data, specifically MODIS time-series Leaf Area Index (LAI), I developed an innovative methodology utilizing the Ensemble Kalman Filter (EnKF) to incorporate LAI into the WOrld FOod STudies (WOFOST) model. The results, validated against field-measured yields from the 2018 growing season, demonstrated a substantial improvement in accuracy, with an impressive R-squared value of 0.80 and an RMSE of 413 kg/ha. This project showcases the potential of Python-driven data analysis to revolutionize agricultural yield forecasting, providing actionable insights for policymakers and stakeholders in Ethiopia and similar regions.
 ![image](https://github.com/Awetahegnbeyene/Portfolio/assets/147026516/4b160fe9-039d-425f-bec1-d7bdad532f32)
 ![image](https://github.com/Awetahegnbeyene/Portfolio/assets/147026516/9f94d713-7792-4298-8047-c88e79975571)
