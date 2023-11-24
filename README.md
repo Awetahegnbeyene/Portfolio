@@ -6,18 +6,18 @@
  - B.Sc., Applied Statistics| Arba Minch University (july 2010)
 ## ## Projects
 ## Optimizing Wheat Yield in Ethiopia: A Data-Driven Analysis
-  •	Conducted a comprehensive analysis of Ethiopia's wheat yield gap using advanced statistical tools, including Excel, 
+•	 Conducted a comprehensive analysis of Ethiopia's wheat yield gap using advanced statistical tools, including Excel, 
    Python, SPSS, and R. Emphasized the correlation between weather variables, soil fertility, and management practices.
-•	Leveraged climatic and soil fertility data, employing Excel for data preprocessing and Python, SPSS, and R for in-depth 
+•	 Leveraged climatic and soil fertility data, employing Excel for data preprocessing and Python, SPSS, and R for in-depth 
   statistical analysis. Estimated water-limited potential yields from 2010 to 2019, providing quantitative insights into the 
    factors influencing wheat yields.
-•	Developed strategic recommendations based on analytical findings, utilizing Excel for data visualization and 
-  interpretation. Emphasized improved access to agricultural inputs, institutional arrangements, and the adoption of 
-  advanced  technologies to narrow the yield gap.
-•	Contributed to enhancing food security in Ethiopia by providing data-driven insights and actionable recommendations. 
-  Applied statistical tools to bridge the gap between potential and actual wheat yields.
-•	Collaborated with cross-functional teams, integrating data analysis into policy design and implementation. Fostered a 
-  multidisciplinary approach to agricultural improvement, employing statistical tools to support decision-making processes.
+• 	Developed strategic recommendations based on analytical findings, utilizing Excel for data visualization and 
+   interpretation. Emphasized improved access to agricultural inputs, institutional arrangements, and the adoption of 
+   advanced  technologies to narrow the yield gap.
+• 	Contributed to enhancing food security in Ethiopia by providing data-driven insights and actionable recommendations. 
+   Applied statistical tools to bridge the gap between potential and actual wheat yields.
+•	 Collaborated with cross-functional teams, integrating data analysis into policy design and implementation. Fostered a 
+   multidisciplinary approach to agricultural improvement, employing statistical tools to support decision-making processes.
  
   <img width="391" alt="image" src="https://github.com/Awetahegnbeyene/Portfolio/assets/147026516/248bd2fd-93e0-4123-94fd-7f8d2d3fed12">
 
