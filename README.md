@@ -1,14 +1,17 @@
 # Data Analyst
-## Technical skills: python,SQL, Tableau, Power BI, Excel
+## Technical skills: Python,SQL, Tableau, Power BI, Excel
 ## Education
  - PhD Researcher., GIS and Cartograpghy| University of Chinese Academy of Sciences (May 2021)
  - M.Sc., Applied Climate science | Mekelle University(July 2015)
  - B.Sc., Applied Statistics| Arba Minch University (july 2010)
 ## Projects
+## Optimizing revenue cycle performance 
+ . Focused on identifying areas of improvement to increase efficiency.
+ . Reduce claim denials and optimize financial outcomes.  
 ## Agricultural Sustainability Analysis for Wheat Production in Ethiopia: A Data-Driven Analysis
 
 •	Conducted comprehensive analysis of Ethiopia's wheat yield gap using Excel, Python, SPSS, and R.
-•	Leveraged statistical tools for data preprocessing and in-depth analysis of weather, soil, and management factors.
+•	Leveraged statistical tools for data preprocessing and in-depth weather, soil, and management factors analysis.
 •	Provided strategic recommendations based on insights, emphasizing improved access to inputs and advanced technologies.
 •	Contributed to food security by bridging the gap between potential and actual wheat yields using data-driven insights.
 •	Collaborated across teams, integrating statistical analysis into policy design for holistic agricultural improvement.
@@ -33,21 +36,21 @@ The project was focused on enhancing wheat yield estimation in Ethiopia, a criti
 •	Executed A/B tests (10%) for healthcare billing and patient engagement optimization.
 •	Leveraged data mining techniques (25%) for market trend insights in healthcare.
 
-## Bussines Analyst at MedRock General Trading Plc    Remote, 03/2020- 08/2021                                                              
+## Data Reporting at MedRock General Trading Plc    Remote, 03/2020- 08/2021                                                              
 •	Analyzed data from 45000 monthly active users and used outputs to guide marketing and product strategies, increased average app engagement time by 2x and decreased drop off rate by 30%
 •	Cut projected time for data analysis by one week by developing reusable EL components using local phyton function. 
 •	Designed merchandising strategies for all goods retailers based on regression analysis identifying key store attributes to increase traffic and conversion; resulted in a 27% sales lift.
 •	Identified changes to assortment, distribution, and marketing using financial and behavioral analysis that enabled an upmarket fashion company to better target their customers, resulting in $IM growth
 
 
-## Climate Researcher at  Ethiopian Research Institute, ETH           09/2016- 03/2020                                    
+## Data Reporting at  Ethiopian Research Institute, ETH           09/2016- 03/2020                                    
                                                                             
 •	Conducted statistical analyses on 1,200 climate data sets, resulting in a 15% improvement in data accuracy and a [20%] reduction in processing time.
 •	Implemented a data management system, enhancing data integrity by 25% across a database of 50,000 climate records, leading to more reliable research outcomes.
 •	Collaborated with a multidisciplinary team, contributing to a 12% reduction in project timeline for a major research initiative focused on climate change mitigation.
 •	Presented research findings to stakeholders, increasing understanding among non-technical audiences by 18% through clear and engaging communication strategies.
 •	Led a team in analyzing climate trends, achieving a 22% improvement in forecasting accuracy over a [12-month] period, aiding in more accurate long-term climate predictions.
-## Research Assistant Ethiopian Research Institute, ETH   07/2014- 08/2016                                                                             
+## Data Management specialist Ethiopian Research Institute, ETH   07/2014- 08/2016                                                                             
 •	Conduct advanced statistical analyses on large datasets, improving data accuracy by 30%.
 •	Implement a data management system, enhancing data integrity by 25%.
 •	Design and execute research studies, reducing project timelines by 20% through effective coordination.
